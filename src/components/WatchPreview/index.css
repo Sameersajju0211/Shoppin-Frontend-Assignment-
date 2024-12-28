@@ -1,0 +1,18 @@
+.watch-preview {
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    color: black;
+    font-weight: 600;
+    margin-top:0px;
+  }
+
+.para-collective-data{
+  font-weight: 600;
+  margin-top: 0px;
+}
+
+.watch-preview p {
+  margin: 5px 0;
+}
+  

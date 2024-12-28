@@ -1,0 +1,40 @@
+.band-selector {
+    max-width: 40%;
+  }
+
+  
+  .band-carousel {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    color: black;
+  }
+
+  @media screen and (max-width:728px){
+    .band-carousel{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 15px; 
+    } 
+    
+  }
+  
+  .band-item {
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background-color: lightgray;
+    cursor: pointer;
+    text-align: center;
+    flex-shrink: 0;
+    height: 40px;
+    transition: box-shadow 0.3s ease;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .band-item:hover {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  

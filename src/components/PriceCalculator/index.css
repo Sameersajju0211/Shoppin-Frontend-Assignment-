@@ -1,0 +1,16 @@
+.price-calculator {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+    margin-top: 10%;
+  }
+  
+  .price-calculator h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  

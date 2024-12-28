@@ -1,0 +1,20 @@
+.save-share {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .save-share button {
+    font-size: 1rem;
+  }
+
+
+  .save-button-styling{
+    background-color: #007bff;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+}
+  
